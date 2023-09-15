@@ -1,7 +1,7 @@
 # Olá, Mundo! 🌎
 
 <p>
-Eu sou iniciante em desenvolvimento web. 🇧🇷
+Sou iniciante em desenvolvimento web. 🇧🇷
 <br>
 I'm a beginner in web development. 🇺🇸
 </p>
