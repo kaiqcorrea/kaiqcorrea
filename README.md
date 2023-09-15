@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, Mundo!🌎
 
-<!--
-**kaiqcorrea/kaiqcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Eu sou iniciante em desenvolvimento web. 🇧🇷
+<br>
+I'm a beginner in web development. 🇺🇸
+</p>
 
-Here are some ideas to get you started:
+[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiqcorrea\&rank_icon=github&show_icons=true&hide=contribs,prs,issues&theme=nord)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="#"><img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+</p>
+
+##
+
+<p>
+  <a href="https://kaiqcorrea.github.io" target="_blank"><img src="https://img.shields.io/badge/Links-000000?logo=linktree&logoColor=white&style=for-the-badge&logoWidth=20" target="_blank"></a>
+</p>
