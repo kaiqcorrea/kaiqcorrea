@@ -17,5 +17,5 @@ I'm a beginner in web development. 🇺🇸
 ##
 
 <p>
-  <a href="https://kaiqcorrea.github.io" target="_blank"><img src="https://img.shields.io/badge/Links-000000?logo=linktree&logoColor=white&style=for-the-badge&logoWidth=20" target="_blank"></a>
+  <a href="https://kaiqcorrea.com" target="_blank"><img src="https://img.shields.io/badge/Links-000000?logo=linktree&logoColor=white&style=for-the-badge&logoWidth=20" target="_blank"></a>
 </p>
