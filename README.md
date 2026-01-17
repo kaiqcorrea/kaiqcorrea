@@ -6,8 +6,6 @@ Sou iniciante em desenvolvimento web. 🇧🇷
 I'm a beginner in web development. 🇺🇸
 </p>
 
-[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiqcorrea\&rank_icon=github&show_icons=true&hide=contribs,prs,issues&theme=nord)](#)
-
 <p>
   <a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
